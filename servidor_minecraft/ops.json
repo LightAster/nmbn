@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "5a47e4fe-856c-36bf-b929-7e46e3f0934e",
+    "name": "PaPox10",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "9bf61984-1e4b-3b61-95d4-4443384dabd0",
     "name": "LightAster",
     "level": 4,
